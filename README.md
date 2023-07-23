@@ -83,7 +83,7 @@ These are key features included in the Indian startup ecosystem project
 - Significant differences in the funding amounts among the top 10 sectors.
 - Funding Trends over the years, showcasing the trends and patterns with regard to the funding amount
 - Top companies/brands in the startup ecosystem based on the highest funding amounts received
-- Top Sectors that attracted the highest funding amounts and their significance in the Indian startup landscape.
+- Top Sectors that attracted the highest funding amounts.
 - Top Investors and their contributions to the funding of Indian startups.
 - Top cities have attracted the highest total funding amounts for start-ups
 - Top headquarters locations with the highest distribution over the years
@@ -124,5 +124,7 @@ Much appreciation to the entire Azubi Team for your continuous support and kudos
 - Alvin Momoh
 - Alliyah
 
-
+### Contact
+Regina Naa Dedei Crabbe
+rndcrabbe@gmail.com
 
